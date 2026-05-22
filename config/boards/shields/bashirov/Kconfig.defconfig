@@ -1,0 +1,16 @@
+if SHIELD_BASHIROV_LEFT
+
+config ZMK_KEYBOARD_NAME
+    default "bashirov"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+endif
+
+if SHIELD_BASHIROV_LEFT || SHIELD_BASHIROV_RIGHT
+
+config ZMK_SPLIT
+    default y
+
+endif
