@@ -34,7 +34,7 @@
 &trans          &trans             &kp LPAR           &kp RPAR           &trans             &trans                          &trans  &kp LBKT  &kp RBKT  &kp MINUS  &kp EQUAL  &trans
 &trans          &kp RA(Q)          &kp RA(O)          &kp RA(D)          &kp RA(P)          &trans                          &trans  &kp LEFT  &kp DOWN  &kp UP     &kp RIGHT  &trans
 &trans          &trans             &trans             &trans             &kp PSCRN          &trans          &trans  &trans  &trans  &trans    &trans    &kp PIPE   &kp BSLH   &trans
-        &trans             &trans             &trans             &trans             &trans          &trans
+&trans        	&trans             &trans				 &trans             &trans          &trans  &trans  &trans  &trans    		&trans    &trans          &trans
             >;
         };
     };
